@@ -1,6 +1,6 @@
 # projetodatascience
 
-Projeto da disciplina Tópicos Avançados em Gerenciamento de Dados. 
+Projeto da disciplina Tópicos Avançados em Gerenciamento de Dados.  
 O dataset de contagem de homicídios foi obtido no site do Atlas da Violência  
 (https://www.ipea.gov.br/atlasviolencia/filtros-series/1/homicidios)  
 Os datasets populacionais foram obtidos no site do IBGE  
