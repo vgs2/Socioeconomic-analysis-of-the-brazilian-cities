@@ -1,5 +1,11 @@
 # projetodatascience
+GRUPO: VÍTOR GODOY SOUZA (vgs2) e CARLOS EDUARDO DE MELLO (ceblpm)
 
+Português:
+Projeto da disciplina Tópicos Avançados em Gerenciamento de Dados, oferecido pela Universidade Federal de Pernambuco (UFPE)
+Os datasets podem ser encontrados nos links abaixo.
+
+English:
 Project of the "Tópicos Avançados em Gerenciamento de Dados"/Data Science course offered by the Federal University of Pernambuco (UFPE).  
 The murder rate (homicidios) dataset was found in the Atlas da Violência website 
 (https://www.ipea.gov.br/atlasviolencia/filtros-series/1/homicidios)  
