@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/a90e97b120ed42788a3195b36273d412/artifacts
+end_time: 1605397761660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a90e97b120ed42788a3195b36273d412
+run_uuid: a90e97b120ed42788a3195b36273d412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1605397761650
+status: 3
+tags: []
+user_id: vitor
