@@ -1,0 +1,1 @@
+{'activation': 'tanh', 'solver': 'lbfgs'}
