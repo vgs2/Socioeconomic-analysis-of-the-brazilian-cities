@@ -1,6 +1,8 @@
 # Socioeconomic analysis of Brazil, its cities and states
 Contributors: VÍTOR GODOY SOUZA (vgs2) e CARLOS EDUARDO DE MELLO (ceblpm)
 
+In order to check this project, just open projeto.ipynb here on Github or on your Jupyter Notebook editor.
+
 Socioeconomic analysis of Brazil, its cities and states, checking the difference and similarities between all the brazilian regions, regarding economic measures, such as GDP, murder rate, population size and many other metrics from 2002 until 2017.  
 This analysis was made using pandas, scikitlearn and Python Jupyter Notebook.
   
