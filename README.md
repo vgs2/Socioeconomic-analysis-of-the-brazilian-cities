@@ -1,7 +1,6 @@
 # Socioeconomic analysis of Brazil, its cities and states
 Contributors: VÍTOR GODOY SOUZA (vgs2) e CARLOS EDUARDO DE MELLO (ceblpm)
 
-English:
 Socioeconomic analysis of Brazil, its cities and states, checking the difference and similarities between all the brazilian regions, regarding economic measures, such as GDP, murder rate, population size and many other metrics from 2002 until 2017.  
 This analysys was made using pandas, scikitlearn and Python Jupyter Notebook.
   
